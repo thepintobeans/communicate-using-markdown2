@@ -2,11 +2,12 @@
 ## OMIS Major
 ### Wheaton, IL
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Mask GIF](https://cdn66.picsart.com/191057343000202.gif?to=min&r=1024)
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+FROM Orders
+INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 
 - [ ] Turn on GitHub Pages
