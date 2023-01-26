@@ -10,6 +10,6 @@ FROM Orders
 INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Get a degree
+- [ ] Get a job
+- [ ] Retire
